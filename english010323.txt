@@ -1,0 +1,56 @@
+When you work on a project or in the team, how do you know that you are successful?
+
+Если я сам разрабатываю какой-то проект, то я добился успеха в том случае, если:
+- проект полностью соответствует техническому заданию,
+- проект работает так, как и ожидалось,
+- заказчик удовлетворен и оставил положительный отзыв о проделанной работе.
+Если этот проект групповой, то успешным его можно назвать, если каждый член команды 
+справился с заданием и выполнил все требования. То есть, если часть команды справилась, а часть нет,
+то в целом требования к проекту не выполнены, а значит чей-то отдельный успех не влияет на общее состояние продукта.
+Поэтому важно, чтобы у всех членов команды разработки были успешно выполнены все задания и требования.
+
+If I am developing a project myself, then I have been successful if:
+- the project fully complies with the terms of reference,
+- the project works as expected,
+- the customer is satisfied and left a positive feedback on the work done.
+If this project is a group project, then it can be called successful if each member of the team
+completed the task and fulfilled all the requirements. That is, if part of the team succeeded, and part did not,
+then, in general, the requirements for the project are not met, which means that someone's individual success does not affect the overall state of the product.
+Therefore, it is important that all members of the development team successfully complete all tasks and requirements.
+
+==================================================================================================
+
+You see that a colleague of you opens a low quality pull request and does not react to your
+comments. What will you do? WIll you just thumb up and let it merge or will you push the peer to fix
+your comments?
+
+В такой ситуации я бы обязательно обратился к коллеге, чтобы прояснить, какие проблемы возникли и как можно их решить. 
+Возможно, он не понимает, что именно нужно исправить, или возникли какие-то технические сложности. Я бы попытался 
+объяснить свои комментарии и дать рекомендации, как улучшить качество кода. Если это не сработает, я передам вопрос 
+старшему члену команды или руководителю проекта, чтобы обсудить наилучший способ справиться с ситуацией.
+Потому что в итоге это может отразиться на проекте и нашей команде в целом. Важно сотрудничать и находить 
+компромиссы, чтобы достичь наилучшего результата.
+
+In such a situation, I would definitely turn to a colleague to clarify what problems have arisen and how they can be solved.
+Perhaps he does not understand what exactly needs to be fixed, or some technical difficulties have arisen. I would try
+explain your comments and give recommendations on how to improve the quality of the code. If that doesn't work, I'll pass the question on.
+senior team member or project leader to discuss the best way to handle the situation.
+Because in the end it can affect the project and our team as a whole. It is important to cooperate and find
+compromises to achieve the best result.
+
+=================================================================================================
+
+You have a planned project deadline by the end of the week but you recognized that you need
+another 3 weeks. What will you do?
+
+Сначала необходимо сразу же сообщить руководителю проекта или проджект менеджеру о ситуации и объяснить причины задержки. 
+Также я бы предоставил новый предполагаемый график и обсудил любые возможные варианты или решения, чтобы уменьшить 
+задержку. Кроме того, я пересмотрел бы требования и задачи проекта, чтобы определить, есть ли какие-либо области, 
+которые можно упростить, или оптимизировать рабочий процесс, чтобы ускорить завершение проекта. Главное - быть 
+честным и открытым в коммуникации, чтобы вместе найти оптимальное решение и достичь цели проекта.
+
+First, I must immediately inform the project manager or project manager about the situation and explain the reasons for the delay.
+Also I would provide a new proposed schedule and discuss any possible options or solutions to reduce
+delay. In addition, I would review the requirements and objectives of the project to determine if there are any areas
+which you can simplify, or streamline your workflow to speed up project completion. The main thing is to be
+honest and open in communication in order to find the best solution together and achieve the goal of the project.
