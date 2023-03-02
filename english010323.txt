@@ -57,3 +57,22 @@ Also I would provide a new proposed schedule and discuss any possible options or
 delay. In addition, I would review the requirements and objectives of the project to determine if there are any areas
 which you can simplify, or streamline your workflow to speed up project completion. The main thing is to be
 honest and open in communication in order to find the best solution together and achieve the goal of the project.
+
+
+
+
+
+Я думаю, что в такой ситуации нельзя молчать. Обязательно нужно обратиться к коллеге, чтобы выяснить, какие проблемы 
+возникли, и как их можно решить. Возможно, он не знает, что именно нужно исправить, или возникли какие-то технические
+сложности. Я бы попытался связаться с ним, чтобы объяснить свои комментарии и дать рекомендации по улучшению качества кода.
+Если это не сработает, я вынужден буду передать вопрос старшему члену команды или руководителю проекта, чтобы найти наилучший 
+способ разрешения ситуации. Потому что в итоге это может отразиться на проекте и нашей команде в целом. Важно сотрудничать 
+и находить компромиссы, чтобы достичь наилучшего результата.
+
+
+I think that in such situation to remain silent is a bad practice. It is necessary to contact a colleague to find out what problems
+he had and how they can be resolved. Perhaps he doesn't know what exactly need to be fixed, or he has some technical difficulties. 
+I would try to contact him to explain my comments and make recommendations for improving the quality of the code.
+If that doesn't work, I'll have to escalate the issue to a senior team member or project manager to find the best way to resolve
+the situation. Because in the end it can affect our command project and our team as a whole. It is important to cooperate
+and find compromises to achieve the best result.
