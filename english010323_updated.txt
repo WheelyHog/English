@@ -61,3 +61,32 @@ Also I would provide a new proposed schedule and discuss any possible options or
 delay. In addition, I would review the requirements and objectives of the project to determine if there are any areas
 which you can simplify, or streamline your workflow to speed up project completion. The main thing is to be
 honest and open in communication in order to find the best solution together and achieve the goal of the project.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Svitlana Kizilpinar  кому  Все 14:29
+"For me, success means being a good team player and a technically competent engineer who delivers projects on time according to stakeholder expectations. To assess my success in these areas, I use a combination of feedback from my colleagues and my own personal metrics.
+
+Firstly, I actively seek feedback from my team members and stakeholders throughout a project. I regularly ask my colleagues how I am doing and welcome constructive criticism so that I can improve my performance. I also participate in regular 360 feedback rounds, which give me a comprehensive view of my performance from multiple perspectives. I take this feedback seriously and work on addressing any areas where I need to improve.
+
+Secondly, I have my own KPIs that I use to measure my success. For example, I track how many features or projects I complete per year, how many comments I receive on my Pull Requests on average, and how long it takes me to develop a feature. By measuring these metrics, I can assess my productivity and identify areas where I can improve my performance.
+
+Finally, I also evaluate the success of the projects that I deliver as part of the team. This includes assessing the quality of the final product, whether it met stakeholder expectations, and whether it was delivered on time and within budget. By analyzing the success of the projects I work on, I can understand the impact of my contributions and identify areas where I can improve.
+
+Overall, by using a combination of feedback from my colleagues and personal metrics, I can evaluate my success as a team player and engineer. By continuously striving to improve my performance, I can ensure that I am delivering projects on time and to a high standard, and contributing to the success of the team."
+
+*Key Performance Indicator

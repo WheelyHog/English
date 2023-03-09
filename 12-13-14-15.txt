@@ -1,0 +1,86 @@
+12. Tell about a challenge at your former workplace you have overcome and personal achievements you are proud of.
+
+	В моей практике был такой случай. Я работал системным администратором в компании, которая занималась грузовыми перевозками по Европе, а также
+распространением бытовой химии по Украине. У компании был свой веб-сайт, но он работал недостаточно хорошо. Мы принимали заказы только от постоянных клиентов, 
+с которыми работали уже давно. Новых клиентов приходилось искать физически. Я предложил начальнику провести SEO-оптимизацию наших веб-ресурсов. 
+Мне пришлось изучить историю веб-запросов в данной категории. И я нашел решение. Я подобрал нужные ключевые слова и зарегистрировал наш сайт в 
+нескольких поисковых системах, а также дал рекламу на бесплатных досках объявления. Это привело к тому, что наш сайт поднялся в выдаче поисковых ресурсов,
+и заинтересованные клиенты смогли найти нас и связаться с нами для заключения договоров. 
+	Увеличились продажи нашей компании и расширилась сеть клиентов. Кстати, этот опыт мне пришлось применить дважды. Я реализовал его для продажи продуктов 
+бытовой химии, а также в сфере грузовых перевозок.
+	Вот реальный случай, которым я могу гордиться как достижением.
+	
+	There was such a case in my practice. I worked as a system administrator in a company that was engaged in freight transportation in Europe, and also
+distribution of household chemicals in Ukraine. The company had a website, but it didn't work well. We accept orders only from regular customers,
+who have been working with for a long time. New clients had to be physically searched. I offered to my boss to make SEO-optimization of our web resources.
+I had to study the history of web requests in this category. And I found a solution. I picked the right keywords and registered our site in
+several search engines and also advertised on free advert boards. This led to the fact that our site rised up in the issuance of search resources,
+and interested customers were able to find us and contact us to conclude contracts.
+	Our company's sales have increased and our customer network has expanded. By the way, I had to apply this experience twice. I implemented it to sell products
+household chemicals, and also in freight transportation.
+	Here is a real case that I can be proud of as an achievement.
+	
+	
+	=========================================================================
+	
+13. If your boss (technical lead, architect) is proposing the solution that is not optimal in a long-term in your opinion, what would you do?
+
+Если мой начальник (технический лидер, архитектор) предлагает решение, которое на мой взгляд не оптимально в долгосрочной перспективе, я бы предпринял следующие шаги:
+
+1. Попытался бы лучше понять причины, по которым мой начальник считает данное решение оптимальным. Возможно, у него есть опыт, информация или контекст, которые я не учел.
+2. Попытался бы объяснить свою точку зрения, указав на потенциальные проблемы или риски, которые могут возникнуть в долгосрочной перспективе.
+3. Предложил бы альтернативное решение, которое, на мой взгляд, более оптимально в долгосрочной перспективе, объяснив причины, по которым я считаю, что оно лучше.
+4. Если бы мой начальник не согласился с моим мнением, я бы попытался бы найти компромиссное решение, которое учитывало бы обе точки зрения.
+
+В любом случае, я бы старался выстраивать конструктивный диалог с начальством и находить наилучшие решения для проекта в целом.
+
+
+If my boss (tech lead, architect) comes up with a solution that I don't think is optimal in the long run, I would take the following steps:
+
+1. I would try to better understand the reasons why my boss thinks this solution is optimal. Perhaps he has experience, information or context 
+that I don't know about.
+2. I would try to explain my point of view by pointing out potential problems or risks that may arise in the long term.
+3. I would propose an alternative solution that I think is more optimal in the long run, and explaining the reasons why I think it is better.
+4. If my boss did not agree with my opinion, I would try to find a compromise solution that would take into account both points of view.
+
+In any case, I would try to build a constructive dialogue with the authorities and find the best solutions for the project as a whole.
+
+====================================================================================
+
+14. Your attitude to overtimes?
+
+Мне кажется, что работа в сверхурочное время - ситуация, которая может возникнуть на любом рабочем месте. Поначалу особых проблем не возникает, 
+если ты занимаешься любимым делом. Но если такие ситуации возникают слишком часто, то даже любимое дело может превратиться в рутину. Работник
+выгорает, чувствует себя постоянно уставшим и раздраженным. Падает эффективность рабочего процесса, пропадает интерес к работе.
+	Я считаю, что работа в сверхурочное время возможна, но только когда это необходимо. Также я думаю, что сверхурочная работа должна компенсироваться
+должным образом. Если этого не происходит, значит либо компания пытается сэкономить финансы, отказавшись нанять дополнительных сотрудников,
+либо нужно изменить организацию рабочего процесса.
+	Чтобы работать долгое время эффективно, нужен баланс между рабочим временем и личным временем сотрудника.
+	
+	It seems to me that working overtime is a situation that can be in any workplace. At first, there are no special problems,
+if you are doing what you love. But if such situations arise too often, then even a favorite thing can turn into a routine. Worker
+burns out, feels constantly tired and grumpy. The efficiency of the work process decreases, interest in work disappears.
+I believe that working overtime is possible, but only when necessary. Also I think overtime should be compensated
+properly. If this does not happen, then either the company is trying to save money by refusing to hire additional employees,
+or it need to change the organization of the workflow.
+To work effectively for a long time, an employee needs a balance between work and personaltime  time.
+
+======================================================================================
+
+15. Please describe your dream job place.
+
+Моя мечта - работать в динамичной и инновационной компании, где я могу реализовывать свой потенциал и принимать участие в интересных проектах. 
+Я предпочитаю коллег, которые разделяют мои ценности и принимают мои идеи, и место работы, где я могу чувствовать себя комфортно и вдохновленно.
+Я ищу место работы, где я могу учиться и развиваться, где есть возможность повышения квалификации и карьерного роста. 
+Я хочу работать в компании, где ценят своих сотрудников и создают условия для их личностного и профессионального роста.
+Мне бы хотелось работать в компании, где я могу сделать значимый вклад и повлиять на результаты работы. Я ищу место, где мои усилия 
+и достижения будут оценены, и где я могу работать в команде высококвалифицированных профессионалов, которые делят мою страсть к работе.
+Я предпочитаю работать в компании, которая заботится о своих сотрудниках и создает условия для их комфортной и продуктивной работы.
+
+My dream is to work in a dynamic and innovative company where I can realize my potential and take part in interesting projects.
+I prefer colleagues who share my values and accept my ideas, and a place of work where I can feel comfortable and inspired.
+I am looking for a place of work where I can learn and develop, where there is an opportunity for professional development and career growth.
+I want to work in a company that values its employees and creates conditions for their personal and professional growth.
+I would like to work in a company where I can make a meaningful contribution and influence the results of work. I'm looking for a place where my efforts
+and achievements will be appreciated, and where I can work in a team of highly qualified professionals who share my passion for work.
+I prefer to work in a company that cares about its employees and creates conditions for their comfortable and productive work.
