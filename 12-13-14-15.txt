@@ -62,7 +62,8 @@ to advance to the position of senior manager.
 1. Попытался бы лучше понять причины, по которым мой начальник считает данное решение оптимальным. Возможно, у него есть опыт, информация или контекст, которые я не учел.
 2. Попытался бы объяснить свою точку зрения, указав на потенциальные проблемы или риски, которые могут возникнуть в долгосрочной перспективе.
 3. Предложил бы альтернативное решение, которое, на мой взгляд, более оптимально в долгосрочной перспективе, объяснив причины, по которым я считаю, что оно лучше.
-4. Если бы мой начальник не согласился с моим мнением, я бы попытался бы найти компромиссное решение, которое учитывало бы обе точки зрения.
+4. В процессе дискуссии нужно найти компромиссное решение, которое учитывало бы обе точки зрения.
+5. Если начальство настаивает на своем, для меня не составляет труда принять его решение.
 
 В любом случае, я бы старался выстраивать конструктивный диалог с начальством и находить наилучшие решения для проекта в целом.
 
@@ -73,8 +74,8 @@ If my boss (tech lead, architect) comes up with a solution that I don't think is
 that I don't know about.
 2. I would try to explain my point of view by pointing out potential problems or risks that may arise in the long term.
 3. I would propose an alternative solution that I think is more optimal in the long run, and explaining the reasons why I think it is better.
-4. If my boss did not agree with my opinion, I would try to find a compromise solution that would take into account both points of view.
-
+4. In the course of the discussion, it is necessary to find a compromise solution that would take into account both points of view.
+5. If the authorities insist on their own, it is not difficult for me to accept their decision.
 In any case, I would try to build a constructive dialogue with the authorities and find the best solutions for the project as a whole.
 
 =======================================================================================================================================
