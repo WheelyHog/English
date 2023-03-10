@@ -1,3 +1,5 @@
+=============================================== 12 Sergey =========================================
+
 12. Tell about a challenge at your former workplace you have overcome and personal achievements you are proud of.
 
 	В моей практике был такой случай. Я работал системным администратором в компании, которая занималась грузовыми перевозками по Европе, а также
@@ -10,7 +12,7 @@
 бытовой химии, а также в сфере грузовых перевозок.
 	Вот реальный случай, которым я могу гордиться как достижением.
 	
-	There was such a case in my practice. I worked as a system administrator in a company that was engaged in freight transportation in Europe, and also
+	There was such case in my practice. I worked as a system administrator in a company that was engaged in freight transportation in Europe, and also
 distribution of household chemicals in Ukraine. The company had a website, but it didn't work well. We accept orders only from regular customers,
 who have been working with for a long time. New clients had to be physically searched. I offered to my boss to make SEO-optimization of our web resources.
 I had to study the history of web requests in this category. And I found a solution. I picked the right keywords and registered our site in
@@ -21,7 +23,37 @@ household chemicals, and also in freight transportation.
 	Here is a real case that I can be proud of as an achievement.
 	
 	
-	=========================================================================
+---------------------------------------------- 12 Viacheslav ---------------------------------------------
+12. Tell about a challenge at your former workplace you have overcome and personal achievements you are proud of.
+
+В одном из моих последних проектов моей задачей было создать адаптивный веб-дизайн для веб-сайта клиента. Проблема заключалась в том, что на веб-сайте 
+было большое количество контента, который нужно было отображать в визуально привлекательном виде как на настольных компьютерах, так и на мобильных 
+устройствах, а так же отсутсвовало какое либо техническое описание требований. Проведя исследования и экспериментируя с различными подходами к дизайну, 
+я пришел к решению, которое включало в себя чистый макет, интуитивно понятную навигацию и оптимизированные изображения для более быстрой загрузки. 
+Конечным результатом стал удобный веб-сайт, который получил положительные отзывы от закзчика.
+
+In one of my latest projects, my task was to create a responsive web design for a client's website. The problem was that the website had a lot of content 
+that needed to be displayed in a visually appealing way on both desktops and mobile devices, and lacked any technical specification of the requirements. 
+After doing research and experimenting with different design approaches, I came up with a solution that included a clean layout, intuitive navigation, 
+and optimized images for faster loading. The end result was a user-friendly website that received positive feedback from the customer.
+
+
+---------------------------------------------- 12 Viktor -------------------------------------------------
+12. Tell about a challenge at your former workplace you have overcome and personal achievements you are proud of.
+
+На моем предыдущем месте работы в санатории была проблема неэффективной работы отдела продаж из-за использования бумажных журналов. Я предложил своему 
+руководству автоматизировать процесс записи в компьютерную программу. Это позволило ускорить процесс работы и быстро получать необходимую информацию. 
+Мы организовывали тренинги для персонала, чтобы они могли использовать новую систему. Это помогло мне продвинуться на должности до старшего менеджера .
+
+At my previous place of work in the sanatorium there was a problem of not effect work of the sales department. My colleagues to the use of paper magazines, 
+it was very hard works for us.  I suggested to my manager to automate the process of writing to a computer program. This helped us to speed up the work 
+process and quickly get the necessary information. Additionally, we organized trainings for my colleagues that they could use the new system. This helped me 
+to advance to the position of senior manager.
+
+
+
+
+=======================================================================================================================================
 	
 13. If your boss (technical lead, architect) is proposing the solution that is not optimal in a long-term in your opinion, what would you do?
 
@@ -45,7 +77,7 @@ that I don't know about.
 
 In any case, I would try to build a constructive dialogue with the authorities and find the best solutions for the project as a whole.
 
-====================================================================================
+=======================================================================================================================================
 
 14. Your attitude to overtimes?
 
@@ -65,7 +97,7 @@ properly. If this does not happen, then either the company is trying to save mon
 or it need to change the organization of the workflow.
 To work effectively for a long time, an employee needs a balance between work and personaltime  time.
 
-======================================================================================
+========================================================== 15 Sergey =====================================================
 
 15. Please describe your dream job place.
 
@@ -84,3 +116,36 @@ I want to work in a company that values its employees and creates conditions for
 I would like to work in a company where I can make a meaningful contribution and influence the results of work. I'm looking for a place where my efforts
 and achievements will be appreciated, and where I can work in a team of highly qualified professionals who share my passion for work.
 I prefer to work in a company that cares about its employees and creates conditions for their comfortable and productive work.
+
+------------------------------------------------------- 15 Viacheslav -----------------------------------------------------------------
+15. Please describe your dream job place.
+
+«Работа моей мечты — это рабочее место, где ценится сотрудничество, творчество и постоянное обучение.
+Я ценю рабочее место, которое поощряет и поддерживает профессиональный рост. Участвуя в конференциях, посещая курсы или учась у коллег, я всегда 
+стремлюсь расширить свои навыки и знания.
+Я ценю комфортную и вдохновляющую офисную обстановку. Для меня важно чистое и организованное пространство, способствующее продуктивности и творчеству.
+Конечно, я надеюсь на справедливое вознаграждение за свою работу, и я хотел бы работать в компании, которая ценит своих сотрудников и платит им 
+соответствующее вознаграждение. Однако я больше заинтересован в том, чтобы найти компанию, которая соответствует моим ценностям и целям и в которой 
+я смогу построить долгосрочную карьеру.
+
+
+“My dream job is a workplace that values collaboration, creativity and continuous learning.
+I value a workplace that encourages and supports professional growth. Participating in conferences, taking courses or learning from colleagues, 
+I am always looking to expand my skills and knowledge.
+I appreciate a comfortable and inspiring office environment. A clean and organized space that promotes productivity and creativity is important to me.
+Of course, I do hope to be compensated fairly for my work, and I would like to work for a company that values its employees and compensates them accordingly. 
+However, I'm more interested in finding a company that aligns with my values and goals, and where I can see myself building a long-term career.
+Finally, I value a workplace that values diversity, equality and inclusion. It is important to me that my colleagues and I feel valued and respected for our 
+unique perspectives and experiences.”
+
+------------------------------------------------------ 15 Viktor ------------------------------------------------------------------------
+
+15. Please describe your dream job place.
+
+Я мечтаю о работе в динамичной и инновационной команде разработчиков, где я могу внести свой вклад в создание качественных продуктов и решений. 
+Ищу компанию, которая ценит своих сотрудников и готова предоставить мне возможности для профессионального и личностного роста. Я уверен, что моя страсть 
+к технологиям и желание развиваться в данной области сделают меня ценным сотрудником команды.
+
+My dream is to work in a dynamic and innovative development team where I can contribute to the creation of quality products and solutions. I am looking for 
+a company that values its employees and is ready to provide me with opportunities for professional and personal growth. I am sure that my passion for technology 
+and desire to develop in this area will make me a valuable employee of the team.
